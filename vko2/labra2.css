@@ -1,7 +1,7 @@
 table, tr, td {
-		border: 1px solid;
-		border-collapse: collapse;
-		padding: 10px;
+	border: 1px solid;
+	border-collapse: collapse;
+	padding: 10px;
 }
 
 #inputField {
