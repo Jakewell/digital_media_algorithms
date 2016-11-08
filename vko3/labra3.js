@@ -27,10 +27,10 @@ $(function () {
 	
 	for (var i = 0; i < infoArray.length; i++) {
 		$("#infoTable").append("<tr>" +
-								  "<td>" + infoArray[i].firstname + "</td>" +
-								  "<td>" + infoArray[i].lastname + "</td>" +
-								  "<td>" + infoArray[i].work + "</td>" +
-							   "</tr>");
+						"<td>" + infoArray[i].firstname + "</td>" +
+						"<td>" + infoArray[i].lastname + "</td>" +
+						"<td>" + infoArray[i].work + "</td>" +
+				      "</tr>");
 	}
 	
 	$("td").on("click", function() {
