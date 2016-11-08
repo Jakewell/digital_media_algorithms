@@ -1,0 +1,18 @@
+table, tr, td {
+	border: 1px solid;
+	border-collapse: collapse;
+	padding: 10px;
+}
+
+#inputField {
+	margin: 15px 0;
+}
+
+.inputSection {
+	margin: 5px 0;
+}
+
+td:hover {
+	cursor: pointer;
+	background-color: #E0A6A3;
+}
