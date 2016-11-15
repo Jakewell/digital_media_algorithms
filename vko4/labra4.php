@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>Labra 3 - Jarkko Saikkonen</title>
+	<title>Labra 4 - Jarkko Saikkonen</title>
 	<script type="text/javascript" src="../jquery-3.1.1.min.js"></script>
 	<script type="text/javascript" src="labra4.js"></script>
 	<link rel="stylesheet" type="text/css" href="labra4.css">
