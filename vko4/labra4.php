@@ -10,15 +10,8 @@
 </head>
 
 <body>
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <p>Stack: Voidaan esimerkiksi PHP-kielessä nähdä virheen sattuessa "stack trace", eli pystytään löytämään virhekohta helpommin.</p>
-    <p>Queue: Seuraavaksi suoritettavissa komennoissa tiedetään varmasti, että ensimmäisenä suoritettava komento todella suoritetaan ensimmäisenä.</p>
-=======
->>>>>>> origin/master
-=======
-	<h2>Click on a table cell to select it</h2>
->>>>>>> parent of 28bef16... vko4update
+	<p>Stack: Voidaan esimerkiksi PHP-kielessä nähdä virheen sattuessa "stack trace", eli pystytään löytämään virhekohta helpommin.</p>
+	<p>Queue: Seuraavaksi suoritettavissa komennoissa tiedetään varmasti, että ensimmäisenä suoritettava komento todella suoritetaan ensimmäisenä.</p>
 	<table id="infoTable">
 	</table>
 	
