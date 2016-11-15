@@ -10,8 +10,11 @@
 </head>
 
 <body>
+<<<<<<< HEAD
     <p>Stack: Voidaan esimerkiksi PHP-kielessä nähdä virheen sattuessa "stack trace", eli pystytään löytämään virhekohta helpommin.</p>
     <p>Queue: Seuraavaksi suoritettavissa komennoissa tiedetään varmasti, että ensimmäisenä suoritettava komento todella suoritetaan ensimmäisenä.</p>
+=======
+>>>>>>> origin/master
 	<table id="infoTable">
 	</table>
 	
