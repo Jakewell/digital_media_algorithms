@@ -10,7 +10,6 @@
 </head>
 
 <body>
-	<h2>Click on a table cell to select it</h2>
 	<table id="infoTable">
 	</table>
 	
